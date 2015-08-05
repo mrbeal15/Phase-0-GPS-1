@@ -6,3 +6,4 @@ end
 
 [GPS page](https://github.com/mrbeal15/Phase-0-GPS-1)
 
+This is the conflict entry.
